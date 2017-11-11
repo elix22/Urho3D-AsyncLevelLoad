@@ -2,7 +2,7 @@
 
 Description
 ---
-Asynchronous level loading sample - demonstrates a two-level system, where you will have at most two levels loaded at a time.  Level loading is achieved by trigger boxes in the scene (green transparent boxes), where the level load information is contained as tags in the nodes, and the loader tracks next and previous levels to load.  For demo purpose, these triggers are not in ideal position as level loading should be more inconspicuous instead of popping-in on the screen.
+Asynchronous level loading sample - demonstrates a two-level system, where you will have at most two levels loaded at a time.  Level loading is achieved by trigger boxes in the scene (green transparent boxes), where the level load information is contained as tags in the nodes, and the loader tracks the current and next level to load.  For demo purpose, these triggers are not in ideal position as level loading should be more inconspicuous instead of popping-in on the screen.
 
 
 Purpose:
